@@ -1,0 +1,6 @@
+{
+  "name": "ResearchIQ",
+  "description": "Research intelligence workspace — analyze scholarly literature, compare methodologies, map citation constellations, detect gaps, and test novel hypotheses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
